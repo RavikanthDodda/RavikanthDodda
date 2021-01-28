@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ravikanth's github stats](https://github-readme-stats.vercel.app/api?username=RavikanthDodda)](https://github.com/RavikanthDodda/github-readme-stats)
+[![Ravikanth's github stats](https://github-readme-stats.vercel.app/api?username=RavikanthDodda&show_icons=true&theme=cobalt)](https://github.com/RavikanthDodda/github-readme-stats)
 
 
 <!--
